@@ -18,21 +18,15 @@
 
 <br />
 <br />
-
 <details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Kamion Stats" src="https://github-readme-stats.vercel.app/api?username=Kamionn&show_icons=true&hide_border=true" />
-
+  <summary>:zap: Languages</summary>
+  <img align="left" alt="Kamion GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamionn" />
 </details>
 
 <details>
-  <summary>:zap: Languages</summary>
-
-<img align="left" alt="Kamion GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamionn" />
-
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="Kamion Stats" src="https://github-readme-stats.vercel.app/api?username=Kamionn&show_icons=true&hide_border=true" />
 </details>
 
 [youtube]: https://www.youtube.com/channel/UCW66YtCyfwE-03dvabvq1fQ
 [Discord]: https://discord.gg/QWzGAKXwnC
-
