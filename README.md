@@ -28,9 +28,9 @@
 </details>
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary>:zap: Languages</summary>
 
-<img align="left" alt="Kamion Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamionn" />
+<img align="left" alt="Kamion GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamionn" />
 
 </details>
 
