@@ -1,6 +1,6 @@
 ### Hello World, I'm Kamion  👋
 
-## I'm a Little Developer !!
+## I'm a Little Developer !
 
 - ✍ You can find my projects here [youtube]
 - 💬 Im active in [Discord]
