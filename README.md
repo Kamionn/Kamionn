@@ -27,14 +27,7 @@ Languages and Module:
 <br />
 <br />
 
-<h2 align="center">
-  <img align="center" alt="Kamion GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamionn&theme=github_dark&hide_border=true" />
-        </h2>
 
-
-<details>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kamionn&theme=github_dark&show_icons=true&hide_border=true"
-</details>
   
 
 [youtube]: https://www.youtube.com/channel/UCW66YtCyfwE-03dvabvq1fQ
