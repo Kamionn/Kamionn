@@ -28,6 +28,6 @@ Languages and Module:
 
 
 
-[visitors](https://visitor-badge.glitch.me/badge?page_id=foltone.foltone)
+
 [youtube]: https://www.youtube.com/channel/UCW66YtCyfwE-03dvabvq1fQ
 [Discord]: https://discord.gg/QWzGAKXwnC
