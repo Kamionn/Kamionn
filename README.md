@@ -9,7 +9,7 @@
   <img align="center" alt="Kamion-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kamion-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kamion-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
- <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Visual Studio Code</title><path d="M23.15
+
   <img align="right" alt="Kamion-pic" height="150" style="border-radius:50px;" 
        src="https://cdn.discordapp.com/attachments/926517812292370435/951904876701552680/Kamion.png?width=676&height=676">
 </div>
