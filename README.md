@@ -10,9 +10,9 @@
   ##
  
 <div> 
-   <a href="https://www.youtube.com/channel/UCW66YtCyfwE-03dvabvq1fQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+   <a href="https://www.youtube.com/channel/UCW66YtCyfwE-03dvabvq1fQ" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
 </div>  
-  ##
+ 
  
 <div> 
   <a href="https://www.youtube.com/channel/UCW66YtCyfwE-03dvabvq1fQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
