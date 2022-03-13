@@ -1,4 +1,4 @@
- # [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=F7F7F7&lines=Student+Developer+!+)](https://git.io/typing-svg)  <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat">
+ # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=calibri&size=40&color=F7F7F7&lines=Student+Developer+!+)](https://git.io/typing-svg)  <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat">
 <div align="center">
   <a href="https://github.com/Kamionn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kamionn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
