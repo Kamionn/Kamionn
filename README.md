@@ -1,6 +1,5 @@
  # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=calibri&size=40&color=F7F7F7&lines=Student+Developer+!+)](https://git.io/typing-svg) 
   
-  
 <div align="center">
 <img height= "80em"align="center" src="https://discord.c99.nl/widget/theme-4/616252005689720835.png" alt="Discord"/>
 </div>
@@ -19,11 +18,11 @@
 </p>
  
  ##
- 
+ ![Contribution](https://activity-graph.herokuapp.com/graph?username=Kamionn&theme=gotham&hide_border=true&area=true)
 <div align="center">
   <a href="https://github.com/Kamionn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kamionn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamionn&layout=compact&langs_count=7&theme=dark "/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kamionn&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamionn&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
 ##
