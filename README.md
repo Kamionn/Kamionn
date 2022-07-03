@@ -1,4 +1,4 @@
- # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=calibri&size=40&color=F7F7F7&lines=Student+Developer+!+)](https://git.io/typing-svg) 
+
   
 <div align="center">
 <img height= "80em"align="center" src="https://discord.c99.nl/widget/theme-4/616252005689720835.png" alt="Discord"/>
