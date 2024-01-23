@@ -1,9 +1,8 @@
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+!+👋;+I'm+Kamion+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FFFFFF&center=true&random=false&width=435&lines=Welcome+%F0%9F%91%8B;I'm+Kamion" />
 </h1>
 
-<h3 align="center">A passionate developer from French</h3>
+<h3 align="center">A passionate developer from France</h3>
 
 <br/>
 
@@ -11,7 +10,7 @@
 
  🌱 I’m currently learning **C and Python**
 
-⚡ Fun fact In One Piece, Luffy's favorite food, the Gomu Gomu no Mi, gives him the ability to stretch his body like rubber.
+⚡ Fun fact: In One Piece, Luffy's favorite food, the Gomu Gomu no Mi, gives him the ability to stretch his body like rubber.
  </div>
  
 
@@ -25,7 +24,6 @@
   <img src="https://skillicons.dev/icons?i=discord,bots,vscode,github,nodejs,firebase,mongodb,mysql"/>
   <br>
 </div>
-
 
 <br/>
 <hr/>
@@ -42,7 +40,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
+<div align="center">
 
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Kamionn&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Kamionn&count_private=true&show_icons=true&theme=gotham&rank_icon=github&border_radius=10" alt="readme stats" />
