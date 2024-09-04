@@ -8,7 +8,7 @@
 
 <div align="center">
 
- 🌱 I’m currently learning **C, C# and Python and Cobol (for fun)**
+ 🌱 I’m currently learning **C# and Python and Cobol (for fun)**
 
 ⚡ Fun fact: In One Piece, Luffy's favorite food, the Gomu Gomu no Mi, gives him the ability to stretch his body like rubber.
  </div>
