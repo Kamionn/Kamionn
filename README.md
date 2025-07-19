@@ -1,49 +1,76 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FFFFFF&center=true&random=false&width=435&lines=Welcome+%F0%9F%91%8B;I'm+Kamion" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FFFFFF&center=true&random=false&width=435&lines=Welcome+%F0%9F%91%8B;I'm+Kamionn" />
 </h1>
 
-<h3 align="center">A passionate developer from France</h3>
+<h3 align="center">👨‍💻 Developer from France — Rust, Lua, NodeJS, and more...</h3>
 
-<br/>
+<p align="center">
+  🚀 I build fast, useful, and privacy-focused open-source tools.<br/>
+  🧠 Always learning — currently diving deep into <b>C#</b>, <b>Rust</b>, and <b>Lua</b>.<br/>
+</p>
 
+---
+
+## 🧩 Featured Projects
+
+<table align="center">
+  <tr>
+    <td><b>🔁 EasySwitchLua</b></td>
+    <td>Ultra-light Lua config switcher for script developers.<br/>
+      <a href="https://github.com/Kamionn/EasySwitchLua">Check the project</a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>📦 zippypack</b></td>
+    <td>A fast & portable packaging/unpackaging tool.<br/>
+      <a href="https://github.com/Kamionn/zippypack">Check the project</a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>🔍 RepoViewer</b></td>
+    <td>Local UI to browse your Git repositories easily.<br/>
+      <a href="https://github.com/Kamionn/RepoViewer">Check the project</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ⚒️ languages & Tools
 <div align="center">
-
- 🌱 I’m currently learning **C#, Python and Cobol (for fun)**
-
-⚡ Fun fact: In One Piece, Luffy's favorite food, the Gomu Gomu no Mi, gives him the ability to stretch his body like rubber.
- </div>
- 
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,lua,python,c,php,powershell"/>
-  <br>
-  <img src="https://skillicons.dev/icons?i=discord,bots,vscode,github,nodejs,firebase,mongodb,mysql"/>
-  <br>
+  <img src="https://skillicons.dev/icons?i=c,cs,html,css,js,lua,php,py,rust,ts,bash" alt="languages"/>
+  <img src="https://skillicons.dev/icons?i=discordjs,mongodb,mysql,nginx,nodejs,nuxtjs,react,svelte,tailwind,tauri,threejs" alt="Tools"/>
 </div>
 
-<br/>
-<hr/>
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
+  <img width=510 src="https://github-readme-stats.vercel.app/api?username=Kamionn&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamionn&hide=html&layout=compact&theme=dark&count_private=true" alt="Top languages"/>
+    
+</div>
+
+## 🏆 Achievements & Badges
+<div align="center">
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kamionn&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)</div>
+
+
+---
+
+## 🐍 Contributions
+
+<div align="center">
   <img alt="snake eating my contributions" src="https://github.com/Kamionn/Kamionn/blob/main/workflows/games_snake.svg" />
-  
-  <br/><br/><br/>
 </div>
 
-<hr/>
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+## 📬 Contact Me
+
 <div align="center">
-
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Kamionn&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Kamionn&count_private=true&show_icons=true&theme=gotham&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamionn&hide=HTML&langs_count=8&layout=compact&theme=gotham&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+📫 kamionpro@gmail.com  
+🔗 <a href="https://github.com/Kamionn">github.com/Kamionn</a>
 </div>
