@@ -5,7 +5,7 @@
 <h3 align="center">👨‍💻 Developer from France — Rust, Lua, NodeJS, and more...</h3>
 
 <p align="center">
-  🚀 I build fast, useful, and privacy-focused open-source tools.<br/>
+  🚀 I build fast, useful, and privacy-focused.<br/>
   🧠 Always learning — currently diving deep into <b>C#</b>, <b>Rust</b>, and <b>Lua</b>.<br/>
 </p>
 
